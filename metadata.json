@@ -1,0 +1,5 @@
+{
+  "name": "Social OmniGen",
+  "description": "A cross-platform social media content generator that creates tailored posts and unique images for LinkedIn, Twitter/X, and Instagram simultaneously using Gemini Pro.",
+  "requestFramePermissions": []
+}
